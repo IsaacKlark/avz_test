@@ -64,7 +64,7 @@ const GetRequestBlock = ({ page, setPage }) => {
 
   return (
     <Wrapper>
-      <Head component="h1">Working with GET request</Head>
+      <Head id="users" component="h1">Working with GET request</Head>
       {error ? (
         <Alert
           severity="error"

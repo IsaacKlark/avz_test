@@ -1,7 +1,7 @@
 import { Bar, ContentWrapper } from "./styles";
 import { ReactComponent as Logo } from "../../images/logo.svg";
 import { RightWrapper } from "./styles";
-import { CustomButton } from "../Button";
+import { CustomButtonLink } from "../Button";
 
 const Header = () => {
   return (
@@ -10,8 +10,8 @@ const Header = () => {
         <Logo />
 
         <RightWrapper>
-          <CustomButton variant="contained">Users</CustomButton>
-          <CustomButton variant="contained">Sign up</CustomButton>
+          <CustomButtonLink href="#users" variant="contained">Users</CustomButtonLink>
+          <CustomButtonLink href="#sign up" variant="contained">Sign up</CustomButtonLink>
         </RightWrapper>
       </ContentWrapper>
     </Bar>

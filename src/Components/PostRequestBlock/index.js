@@ -188,7 +188,7 @@ const PostRequestBlock = ({ setPage }) => {
   }, []);
 
   return (
-    <Wrapper>
+    <Wrapper id="sign up">
       <Head>Working with POST request</Head>
 
       <Form
