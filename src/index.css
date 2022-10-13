@@ -16,3 +16,7 @@ html {
   scroll-behavior: smooth;
 }
 
+label + .css-1e65pht {
+  margin-top: 0;
+}
+
