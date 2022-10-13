@@ -17,6 +17,6 @@ html {
 }
 
 label + .css-1e65pht {
-  margin-top: 0;
+  margin-top: 0 !important;
 }
 
