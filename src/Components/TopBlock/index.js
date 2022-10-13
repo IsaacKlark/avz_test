@@ -1,5 +1,5 @@
 import { Wrapper, Text, Head } from "./styles";
-import { CustomButton } from "../Button";
+import { CustomButtonLink } from "../Button";
 
 const TopBlock = () => {
   return (
@@ -12,7 +12,7 @@ const TopBlock = () => {
         mind. They should also be excited to learn, as the world of Front-End
         Development keeps evolving.
       </Text>
-      <CustomButton>Sign up</CustomButton>
+      <CustomButtonLink href="#sign up">Sign up</CustomButtonLink>
     </Wrapper>
   );
 };
