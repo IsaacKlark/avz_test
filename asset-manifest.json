@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/avz_test/static/css/main.e6c13ad2.css",
+    "main.js": "/avz_test/static/js/main.def133c9.js",
+    "static/media/background1170.png": "/avz_test/static/media/background1170.827be205d1bc9668d171.png",
+    "static/media/background1024.png": "/avz_test/static/media/background1024.b1ec0c0f86d0a6552d1a.png",
+    "static/media/background768.png": "/avz_test/static/media/background768.bc862e1edd97e2bc8228.png",
+    "static/media/background360.png": "/avz_test/static/media/background360.5c7804a68f6d28970c5e.png",
+    "static/media/Nunito-Medium.ttf": "/avz_test/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
+    "static/media/Nunito-Regular.ttf": "/avz_test/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
+    "static/media/logo.svg": "/avz_test/static/media/logo.5a0a20f72736258823f8e7d79340cde1.svg",
+    "static/media/avatar.svg": "/avz_test/static/media/avatar.269147462d9fd468767216e32786a6bf.svg",
+    "static/media/preloader.svg": "/avz_test/static/media/preloader.fec4de9a65f16b53fd960603d684fe64.svg",
+    "index.html": "/avz_test/index.html",
+    "static/media/checkedRadio.svg": "/avz_test/static/media/checkedRadio.e917e762b7b54a9b2bbd419ebe1b5371.svg",
+    "static/media/radio.svg": "/avz_test/static/media/radio.b4ec122bea9f15667103304241379181.svg",
+    "main.e6c13ad2.css.map": "/avz_test/static/css/main.e6c13ad2.css.map",
+    "main.def133c9.js.map": "/avz_test/static/js/main.def133c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.def133c9.js"
+  ]
+}
